@@ -13,5 +13,14 @@ img {
 }
 * {
     font-family: sans-serif;
+    background: rgb(250, 232, 133);
 }
  
+.text {
+    font-size: 24px;
+}
+
+.text.tax {
+    color: blueviolet;
+    
+}
