@@ -1,0 +1,18 @@
+.title {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+* {
+    font-family: sans-serif;
+}
+
+.foto {
+    width: 500px;
+    height: auto;
+}
